@@ -2,9 +2,20 @@
 
 This template should help get you started developing with React in Vite.
 
+## Pre-requisite
+
+- node
+- npm
+
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vite.dev/config/).
+
+## Install vite in devDependencies
+
+```sh
+npm i -D vite
+```
 
 ## Create project
 
